@@ -21,4 +21,4 @@ h) proposition de suppression des outliers, infos si tel est le cas
 
 i)  standardisation/normalisation forcée des données
 
-j) ecriture des donnés néttoyées dans un nouveau .csv
+j) ecriture des données néttoyées dans un nouveau .csv
